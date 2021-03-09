@@ -1,0 +1,19 @@
+body {
+  background-color: #e3fdfd;
+}
+hr {
+  border-style: dotted;
+  border-width: 0.3em 0 0 0;
+  border-color: grey;
+  width: 10%;
+}
+h1{
+  color: #ac0d0d;
+}
+h3{
+  color: #71c9ce;
+}
+
+.myprofilepic:hover{
+  background-color: #ff7171;
+}
